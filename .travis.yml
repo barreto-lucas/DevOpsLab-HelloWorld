@@ -21,4 +21,3 @@ deploy:
   provider: heroku
   api_key:
     secure: "35390248-213c-4a34-939e-480cb9a06540"
-  app: app4linux-helloworld
